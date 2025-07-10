@@ -30,8 +30,8 @@ A full-stack MERN application to manage and analyze COVID-19 data. This app supp
 ### 🔁 1. Clone the Repository
 
 // ```bash
-- git clone https://github.com/your-username/covid-tracker-app.git
-- cd covid-tracker-app
+- git clone https://github.com/loopcraft3/Covid-Tracker-Application.git
+- cd Covid-Tracker-Application
 ---
 
 ### 🛠️ 2. Setup the Backend
